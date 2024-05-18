@@ -11,4 +11,7 @@
 	 available to the system.-->
     <bool name="config_freeformWindowManagement">true</bool>
 
+    <integer name="config_defaultUiModeType">4</integer>
+    <bool name="config_lockUiMode">true</bool>
+    <integer name="config_defaultNightMode">2</integer>
 </resources>
